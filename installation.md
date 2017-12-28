@@ -4,4 +4,7 @@
 
 ```
 git clone https://github.com/haonx/laravel.git haonx
+cd haonx
+git checkout 5.4
+composer create-project
 ```
